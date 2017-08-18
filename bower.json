@@ -9,7 +9,8 @@
     "page": "visionmedia/page.js#~1.6.3",
     "cors-upload-sample": "googledrive/cors-upload-sample#master",
     "google-signin": "GoogleWebComponents/google-signin",
-    "google-map": "GoogleWebComponents/google-map#^1.1.1"
+    "google-map": "GoogleWebComponents/google-map#^1.1.1",
+    "point-overlay": "googlecodelabs/polymer-webgl-visualization"
   },
   "devDependencies": {
     "web-component-tester": "*",
